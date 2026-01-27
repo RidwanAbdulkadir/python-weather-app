@@ -23,15 +23,21 @@ Requests
 Public Weather API
 
 📦 Installation
-git clone https://github.com/your-username/weather-app.git
+
+git clone https://github.com/RidwanAbdulkadir/python-weather-app
+
 cd weather-app
+
 pip install requests
 
+
 ▶️ Usage
+
 python app.py
 
 
 Enter a city name when prompted to view the current weather details.
+
 
 📚 What This Project Covers
 
