@@ -1,0 +1,7 @@
+.venv
+.env
+arcade.py
+guess_numbers.py
+new.py
+test.py
+__pycache__
