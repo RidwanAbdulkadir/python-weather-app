@@ -33,7 +33,7 @@ pip install requests
 
 ▶️ Usage
 
-python app.py
+python server.py
 
 
 Enter a city name when prompted to view the current weather details.
