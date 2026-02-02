@@ -24,16 +24,16 @@ Public Weather API
 
 📦 Installation
 
-git clone https://github.com/RidwanAbdulkadir/python-weather-app
+`git clone https://github.com/RidwanAbdulkadir/python-weather-app`
 
-cd weather-app
+`cd weather-app`
 
-pip install requests
+`pip install requests`
 
 
 ▶️ Usage
 
-python server.py
+`python server.py`
 
 
 Enter a city name when prompted to view the current weather details.
@@ -60,3 +60,8 @@ Better output formatting
 📄 License
 
 This project is open-source and available under the MIT License.
+
+visit the app live at https://python-weather-app-7obx.onrender.com
+
+
+
